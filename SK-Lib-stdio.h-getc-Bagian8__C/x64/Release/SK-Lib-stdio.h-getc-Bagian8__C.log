@@ -1,0 +1,7 @@
+﻿  Source.c
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-getc-Bagian8__C\SK-Lib-stdio.h-getc-Bagian8__C\Source.c(21,13): warning C4013: 'exit' undefined; assuming extern returning int
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SK-Lib-stdio.h-getc-Bagian8__C.vcxproj -> D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-getc-Bagian8__C\x64\Release\SK-Lib-stdio.h-getc-Bagian8__C.exe
